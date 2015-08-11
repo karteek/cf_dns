@@ -1,0 +1,6 @@
+{
+  "email": "your.emaile@gmail.com",
+  "api_key": "CloudFlareApiKey",
+  "domain": "example.com",
+  "records": ["a.example.com", "b.example.com", "c.example.com"]
+}
